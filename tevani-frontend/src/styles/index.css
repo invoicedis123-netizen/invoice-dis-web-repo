@@ -1,0 +1,15 @@
+/* Import variables first */
+@import './variables.css';
+
+/* Import Tailwind base styles */
+@import './base.css';
+
+/* Import Tailwind component styles */
+@import './components.css';
+
+/* Import Tailwind utility styles */
+@import './utilities.css';
+
+/* Additional global styles can be added here */
+
+/* Made with Bob */

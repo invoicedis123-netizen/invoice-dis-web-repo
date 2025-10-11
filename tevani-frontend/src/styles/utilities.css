@@ -1,0 +1,14 @@
+@tailwind utilities;
+
+@layer utilities {
+  /* Add any custom utility classes here */
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .text-pretty {
+    text-wrap: pretty;
+  }
+}
+
+/* Made with Bob */

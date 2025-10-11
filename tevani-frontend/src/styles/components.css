@@ -1,0 +1,25 @@
+@tailwind components;
+
+@layer components {
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary;
+  }
+  
+  .glass-card {
+    @apply bg-card/90 backdrop-blur-sm border-border shadow-lg;
+  }
+  
+  .royal-gradient {
+    @apply bg-gradient-to-r from-primary via-blue-700 to-blue-600;
+  }
+  
+  .gold-gradient {
+    @apply bg-gradient-to-r from-secondary to-yellow-500;
+  }
+  
+  .blue-tint {
+    @apply bg-gradient-to-br from-blue-50/80 to-blue-100/60;
+  }
+}
+
+/* Made with Bob */

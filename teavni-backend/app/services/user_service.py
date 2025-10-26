@@ -133,5 +133,3 @@ async def update_user(user_id: str, update_data: Dict[str, Any]) -> Optional[Dic
     )
     
     return await get_user_by_id(user_id)
-
-# Made with Bob

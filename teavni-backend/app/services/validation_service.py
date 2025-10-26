@@ -343,5 +343,3 @@ class ValidationService:
         return trust_score, risk_tier
 
 validation_service = ValidationService()
-
-# Made with Bob

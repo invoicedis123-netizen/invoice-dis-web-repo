@@ -83,11 +83,3 @@ async def read_users_me(current_user: User = Depends(get_current_user)):
    Get current user
    """
    return current_user
-
-
-# Made with Bob
-
-
-
-
-

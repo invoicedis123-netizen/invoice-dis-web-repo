@@ -555,11 +555,3 @@ collection_schemas = {
    "notifications": (notification_schema, notification_indexes),
    "consent_logs": (consent_log_schema, consent_log_indexes),
 }
-
-
-# Made with Bob
-
-
-
-
-

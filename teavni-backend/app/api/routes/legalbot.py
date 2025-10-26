@@ -174,5 +174,3 @@ async def check_passive_consent(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Failed to check passive consent: {str(e)}"
         )
-
-# Made with Bob

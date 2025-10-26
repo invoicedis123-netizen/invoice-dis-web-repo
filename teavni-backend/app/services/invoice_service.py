@@ -200,5 +200,3 @@ class InvoiceService:
         return result.deleted_count > 0
 
 invoice_service = InvoiceService()
-
-# Made with Bob

@@ -62,5 +62,3 @@ async def read_user(
         del user["hashed_password"]
     
     return user
-
-# Made with Bob

@@ -115,5 +115,3 @@ class ConsentLogCreate(BaseModel):
     details: Optional[Dict[str, Any]] = None
     ip_address: Optional[str] = None
     user_agent: Optional[str] = None
-
-# Made with Bob

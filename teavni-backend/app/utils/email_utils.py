@@ -80,5 +80,3 @@ async def send_email(
     except Exception as e:
         logger.error(f"Failed to send email: {str(e)}")
         return False
-
-# Made with Bob

@@ -594,5 +594,3 @@ class LegalBotService:
             return f"Consent status updated to {status} on {now.isoformat()}."
 
 legalbot_service = LegalBotService()
-
-# Made with Bob

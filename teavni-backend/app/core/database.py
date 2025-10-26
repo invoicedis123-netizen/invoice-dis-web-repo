@@ -63,5 +63,3 @@ async def close_mongo_connection():
 def get_collection(collection_name: str):
     """Get a collection from the database."""
     return db.db[collection_name]
-
-# Made with Bob

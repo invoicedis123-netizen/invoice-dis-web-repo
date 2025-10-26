@@ -237,5 +237,3 @@ class OCRService:
         return None
 
 ocr_service = OCRService()
-
-# Made with Bob

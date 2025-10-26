@@ -238,4 +238,3 @@ class OCRService:
 
 ocr_service = OCRService()
 
-# Made with Bob

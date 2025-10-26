@@ -34,11 +34,3 @@ def update_user_schema():
 
 if __name__ == "__main__":
    update_user_schema()
-
-
-# Made with Bob
-
-
-
-
-

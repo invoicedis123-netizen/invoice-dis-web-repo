@@ -640,11 +640,3 @@ export default function SettingsPage() {
    </div>
  );
 }
-
-
-// Made with Bob
-
-
-
-
-

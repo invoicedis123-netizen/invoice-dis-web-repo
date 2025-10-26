@@ -143,4 +143,4 @@ export function ConsentStatus({ invoiceId, onRefresh }: ConsentStatusProps) {
 
 export default ConsentStatus;
 
-// Made with Bob
+ 

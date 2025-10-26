@@ -542,11 +542,3 @@ export default function LandingPage() {
     </div>
   );
 }
-
-
-// Made with Bob
-
-
-
-
-

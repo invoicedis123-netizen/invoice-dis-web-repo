@@ -478,7 +478,7 @@ export default function LegalBotPage() {
 }
 
 
-// Made with Bob
+ 
 
 
 
